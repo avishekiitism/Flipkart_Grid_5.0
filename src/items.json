@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Camera",
+      "category": "electronics",
+      "image": "https://camclinic.in/wp-content/uploads/2023/06/1653353121_1708099.jpg",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Drone",
+      "category": "electronics",
+      "image": "https://dji-official-fe.djicdn.com/cms/uploads/ae5d8b9987be8d5ecdeb5d502a1e887c.png",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Headset",
+      "category": "electronics",
+      "image": "https://apps.thx.com/THXData/Content/Upload/Images/rzr_barracuda_render03_2022.jpeg",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "category": "clothing",
+      "image": "https://m.media-amazon.com/images/I/51TxzW67LFL.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "category": "clothing",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ray-Ban_sunglasses.jpg",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Watch",
+      "category": "clothing",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Baume_et_Mercier_Classima_10324_Watch.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Puzzle Cube",
+      "category": "toys",
+      "image": "https://static.wesco.fr/media/catalog/product/cache/7ccc10e5a8277e9f8854785247b9d41d/3/3/33863_p_33863_pd@p2@xl.jpg",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Train Set",
+      "category": "toys",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f41c355968eab79163be023/1632716593771-8WNK73VFDWHAXUMIY6AT/my-first-train-set-1-o.jpeg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Robot Set",
+      "category": "toys",
+      "image": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_1818877082.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
